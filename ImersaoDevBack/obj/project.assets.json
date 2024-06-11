@@ -437,19 +437,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luiz\\.nuget\\packages\\": {}
+    "C:\\Users\\10824565436\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luiz\\Documents\\Residencia\\Projetos\\ImersaoDevBack\\ImersaoDev.csproj",
+      "projectUniqueName": "C:\\Users\\10824565436\\Documents\\Projetos\\ImersaoDev\\ImersaoDevBack\\ImersaoDev.csproj",
       "projectName": "ImersaoDev",
-      "projectPath": "C:\\Users\\Luiz\\Documents\\Residencia\\Projetos\\ImersaoDevBack\\ImersaoDev.csproj",
-      "packagesPath": "C:\\Users\\Luiz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luiz\\Documents\\Residencia\\Projetos\\ImersaoDevBack\\obj\\",
+      "projectPath": "C:\\Users\\10824565436\\Documents\\Projetos\\ImersaoDev\\ImersaoDevBack\\ImersaoDev.csproj",
+      "packagesPath": "C:\\Users\\10824565436\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\10824565436\\Documents\\Projetos\\ImersaoDev\\ImersaoDevBack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Luiz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\10824565436\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -467,11 +467,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -502,7 +497,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.423\\RuntimeIdentifierGraph.json"
       }
     }
   }
